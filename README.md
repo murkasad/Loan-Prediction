@@ -1,1 +1,2 @@
 # Loan-Prediction
+Predicted applicants’ status for the loan and identified whether the applicant is fit for the loan approval or not, based on their personal information such as income, loan amount, dependents, credit history etc. • Pre-processed the dataset, performed exploratory data analysis and then applied predictive modeling with combinations of models and hyperparameters using Grid Search CV; proved that the Random Forest Classifier model with a specific set of hyperparameters produced the best accuracy of 85%
